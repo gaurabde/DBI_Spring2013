@@ -1,0 +1,2 @@
+1. change startuture in SortInfo DBFile.h
+2. change SortDBFile creat and all other methods
